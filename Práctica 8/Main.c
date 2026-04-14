@@ -1,5 +1,5 @@
 
-/*Práctica 7: Lista Ligada Circular.
+/*Práctica 8: Lista Doblementew Ligada Circular.
 Realizado por: Primero Reyes Monserrath, Santiago Solís Axel Eduardo, Ortiz Hernández Yesica, De la Cruz Flores Natalia.
 /*Este archivo contiene el programa principal donde se controla todo el sistema
 hospitalario mediante menús. Aquí se inicializan las listas y se le permite al usuario 
